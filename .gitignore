@@ -1,7 +1,4 @@
-plaintext
 node_modules
 dist
-.git
-.github
 npm-debug.log
-Dockerfile
+.env
